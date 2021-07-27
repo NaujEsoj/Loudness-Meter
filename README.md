@@ -5,6 +5,12 @@ For this project and in order for the TFT screen to work it was used the TFT mic
 - https://github.com/boochow/MicroPython-ST7735
 - https://github.com/GuyCarver/MicroPython/blob/master/lib/ST7735.py
 
+# Files
+
+- main.py (Countains all the data and programation in order to run the meter. Dont change the name if you want to run this file on an ESP32)
+- ST7735.py (Library for the TFT screen, here you cant change values, colors, rotate the screen, etc.)
+- sysfont.py (Contains the fonts necessaries to show text in the TFT screen)
+
 # Hardware
 
 It requieres the following hardware:
