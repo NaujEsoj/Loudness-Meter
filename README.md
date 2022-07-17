@@ -41,7 +41,7 @@ Optional (but recommended) hardware:
 
 # Physical Components
 
-Here is a image with all the devices mounted and configured:
+Here is an image with all the devices mounted and configured:
 
 ![5555](https://user-images.githubusercontent.com/55373104/127080533-6c533adb-fd02-4731-8af4-5d63b625b5e2.jpg)
 
