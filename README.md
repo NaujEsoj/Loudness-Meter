@@ -45,11 +45,21 @@ Here is an image with all the devices mounted and configured:
 
 ![5555](https://user-images.githubusercontent.com/55373104/127080533-6c533adb-fd02-4731-8af4-5d63b625b5e2.jpg)
 
+
+
 # Measurements
 
-In this image we can see how Thingspeak shows the data received from the ESP32 and the MAx9814
+
+Device is taking the measurements
+
+![IMG_20210725_203903](https://user-images.githubusercontent.com/55373104/192875156-83a42cf7-15f4-4590-9abe-beb92dfd8a6e.png)
+
+
+
+In this image we can see how Thingspeak shows the data received from the ESP32 and the Max9814
 
 ![image](https://user-images.githubusercontent.com/55373104/127080868-880e56c2-f8ac-4cf7-a08c-acc201f30fda.png)
+
 
 
 
